@@ -38,8 +38,8 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/viewnext.png" height="22" alt="Viewnext" /> | Viewnext | Cortes Bueno, José Yeray<br>Sánchez Martín, Isaac<br>Soria Zaitseva, Elisabet<br>Toledo Moreno, Rafael | *pendiente* |
 | <img src="img/autismo-sur.png" height="22" alt="Fundación Autismo Sur" /> | Fundación Autismo Sur | Frutos Ruiz, Álvaro | https://github.com/Afrurui/presentaciones_ffeoe_1daw_m_25_26 |
 | <img src="img/properly.png" height="22" alt="Properly" /> | Properly | García Domínguez, Andrés | *pendiente* |
-| <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Palmero Arrabal, Jesús | *pendiente* |
-| <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Ruiz Herrera, Javier | https://github.com/CPIFPAlanTuring/presentaciones_ffeoe_1daw_m_25_26 |
+| <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Palmero Arrabal, Jesús | https://github.com/jpalarr0104/-practicas-daw-ada-2526- |
+| <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Ruiz Herrera, Javier | *pendiente* |
 | <img src="img/ajemare.jpg" height="22" alt="AJEMARE" /> | AJEMARE | Santiago Escobar, Jorge Javier | *pendiente* |
 | <img src="img/windup.svg" height="22" alt="Windup" /> | Windup | Yáñez Solano, Ángel | https://github.com/Angel30042002/Presentacion_Dual_1DAW_Ma-ana_25-26 |
 
